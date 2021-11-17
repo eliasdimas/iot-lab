@@ -16,4 +16,3 @@
  10. distance sensors
  11. smoke sensors 
  12. flame sensors 
-123
