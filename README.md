@@ -5,8 +5,8 @@
 
 ## requirments
 1. docker
-2. arduino uno or raspberry pi modules
-3.  wifi modules for arduino or raspberry wifi modules
+2. arduino uno or raspberry pi microprocessors
+3. wifi modules for arduino uno or raspberry pi
 4. human body sensors
 5. sound sensors
 6. photosensitive sensors
