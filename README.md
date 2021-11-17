@@ -1,9 +1,9 @@
-#iot-lab info
- Internet of things lab UniWA 2021\n
- Authors : Elias Dimas & Konstantinos Ntounis\n 
- Project : Data collection from sensor network (Swarm)\n
+##iot-lab info
+ -Internet of things lab UniWA 2021
+ -Authors : Elias Dimas & Konstantinos Ntounis
+ -Project : Data collection from sensor network (Swarm)
  
-#requirments
+##requirments
  1. arduino uno and raspberry pi modules 
  2. docker 
  3. temperature sensors 
