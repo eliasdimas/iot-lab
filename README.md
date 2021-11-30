@@ -6,7 +6,7 @@
 ## requirments
 1. docker
 2. arduino uno
-3. wifi modules for arduino uno
+3. wifi shield for arduino uno
 4. temperature & humidity sensor
-5. smoke sensors
-6. alarm 
+5. flame sensors
+6. passive buzzer 
