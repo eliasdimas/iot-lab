@@ -25,3 +25,4 @@ The swarm of our choice is capable of detecting the temperature and the humidity
 ## System Functionality Description
 
 
+[System Visualisation.pdf](https://github.com/eliasdimas/iot-lab/files/7650981/System.Visualisation.pdf)
