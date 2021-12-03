@@ -1,0 +1,25 @@
+Βήματα επίτευξης Task 1 :
+
+1) cd swarmlab-hybrid
+
+2) ./start.sh
+
+3) cd ./swarmlab-hybrid/src-local/instance/poc-datacollector
+
+4) ./tools/poc-dummy-ls
+
+5) ./tools/poc-dummy-create device-1
+
+6) ./tools/poc-dummy-send device-1 "Hello World"
+
+7) ./tools/poc-dummy-log device-1
+
+8) Είσοδος στο http://localhost:3088/
+
+9) Instances -> Container -> webclient -> Actions -> Connect -> Click here to open the Web_App
+
+9) Click Search button
+
+10) Στο ιστορικό εμφανίζεται η καταχώρηση Hello World που κάναμε
+
+
